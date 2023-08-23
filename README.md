@@ -8,6 +8,6 @@ To run this app, the Tkinter library is required. To install, paste this into th
 
 To launch the app:
 
-``` python passwordapp.py '''
+``` python passwordapp.py ```
 
 https://github.com/zachkklein/PasswordGenerator/assets/106212306/2d8824ea-3eb7-46c8-a33e-b47b39f8770d
